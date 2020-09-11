@@ -1,0 +1,1 @@
+Method <com.priyanka.archunitexample.generalCodingRules.CodingRules.throwGenericException()> calls constructor <java.lang.Throwable.<init>()> in (CodingRules.java:8)
